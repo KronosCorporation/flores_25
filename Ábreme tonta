@@ -427,7 +427,7 @@
     <div class="light light-10"></div>
     <div class="light light-11"></div>
     <div class="light light-12"></div>
-    <button class="flower-btn">Por bonita:)</button>
+    <button class="flower-btn">Por bonitap</button>
     <script>
       const floweBtn = document.querySelector(".flower-btn");
       const audio = document.getElementById("id_audio")
@@ -438,4 +438,5 @@
     </script>
   </body>
 </html>
+
 
