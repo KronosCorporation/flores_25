@@ -383,7 +383,7 @@
       id="id_audio"
       src="The Rains of Castamere (Red Wedding Version).mp3"
     ></audio>
-    <h1>Te regalo esta flor amarilla porque eres mi futuro soñado</h1>
+    <h1>Para tú </h1>
     <div class="sunflower">
       <div class="flower_wrapper">
         <div class="flower_stem"></div>
@@ -427,7 +427,7 @@
     <div class="light light-10"></div>
     <div class="light light-11"></div>
     <div class="light light-12"></div>
-    <button class="flower-btn">CLICK AQUI</button>
+    <button class="flower-btn">Por bonita:)</button>
     <script>
       const floweBtn = document.querySelector(".flower-btn");
       const audio = document.getElementById("id_audio")
@@ -438,3 +438,4 @@
     </script>
   </body>
 </html>
+
